@@ -71,11 +71,11 @@
             </objects>
             <point key="canvasLocation" x="-2274" y="81"/>
         </scene>
-        <!--Item-->
+        <!--Navigation Controller-->
         <scene sceneID="wD4-IJ-2r2">
             <objects>
                 <navigationController id="dyq-1p-AUv" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="M0P-hY-5jg"/>
+                    <tabBarItem key="tabBarItem" systemItem="history" id="M0P-hY-5jg"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="u86-cG-T4s">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -88,7 +88,7 @@
             </objects>
             <point key="canvasLocation" x="-1470" y="-228"/>
         </scene>
-        <!--Item-->
+        <!--View Controller-->
         <scene sceneID="uup-Pb-Bpi">
             <objects>
                 <viewController id="IPr-6M-LfQ" sceneMemberID="viewController">
@@ -101,7 +101,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" red="1" green="0.57637232540000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Item" id="luo-Mv-kYG"/>
+                    <tabBarItem key="tabBarItem" systemItem="favorites" id="luo-Mv-kYG"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Sro-eY-0o3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
